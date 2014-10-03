@@ -1,10 +1,10 @@
-[img src='https://pbs.twimg.com/profile_images/2330750552/dire.jpg'][/img]
+![His mug](https://pbs.twimg.com/profile_images/2330750552/dire.jpg)
 
 Danny Dyer's Words Of Wisdom
 --
 Ever wondered what Danny Dyer thinks of your thoughts? Neither did we. But here he is, sharing his input. Marvellous.
 
-Magnificent insights into existence soured from [a href='https://twitter.com/MrDDyer']here.[/a]
+Magnificent insights into existence soured from [here] (https://twitter.com/MrDDyer).
 
 Instructions:
 --
