@@ -14,9 +14,9 @@ def print_menu
 	puts "--------------------------------------"
 	puts "Instructions: Number. Word. Leave."
 	puts "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-	puts "A. Wisdom Innit"
-	puts "B. Odd words'n'that"
-	puts "C. Fak off"
+	puts "A. Wisdom Innit (Word Input)"
+	puts "B. Odd words'n'that (Random Phrase)"
+	puts "C. Fak off (Exit)"
 	puts "______________________________________"
 end
 
