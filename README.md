@@ -1,4 +1,4 @@
-giDanny Dyer's Words Of Wisdom
+Danny Dyer's Words Of Wisdom
 --
 Ever wondered what Danny Dyer thinks of your thoughts? Neither did we. But here he is, sharing his input. Marvellous.
 
