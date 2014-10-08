@@ -4,7 +4,7 @@ Danny Dyer's Words Of Wisdom
 --
 Ever wondered what Danny Dyer thinks of your thoughts? Neither did we. But here he is, sharing his input. Marvellous.
 
-Magnificent insights into existence soured from [here] (https://twitter.com/MrDDyer).
+Magnificent insights into existence sourced from [here] (https://twitter.com/MrDDyer).
 
 Instructions:
 --
