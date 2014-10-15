@@ -1,6 +1,6 @@
 ![His mug](https://pbs.twimg.com/profile_images/2330750552/dire.jpg)
 
-Danny Dyer's Words Of Wisdom
+Maker's Academy - Danny Dyer's Words Of Wisdom
 --
 Ever wondered what Danny Dyer thinks of your thoughts? Neither did we. But here he is, sharing his input. Marvellous.
 
