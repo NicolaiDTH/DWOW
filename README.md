@@ -1,3 +1,5 @@
+![MAlogo!](http://www.makersacademy.com/images/logo.png)
+
 ![His mug](https://pbs.twimg.com/profile_images/2330750552/dire.jpg)
 
 Maker's Academy - Danny Dyer's Words Of Wisdom
